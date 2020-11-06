@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oscar Galvez-Soriano
+title: Oscar Gálvez-Soriano
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: University of Houston
-    year: 2023 
+    year: 2023 (expected)
   - course: MSc in Economics
     institution: El Colegio de Mexico
     year: 2013
